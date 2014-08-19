@@ -39,7 +39,7 @@ Ext.define('Qtm.view.navigation.Panel', {
             xtype: 'panel',
             layout: 'fit',
             glyph: 'xf002@fontawesome',
-            title: 'NAS',
+            title: 'Network Attached Storage',
             items: [
                 {
                     xtype: 'menu',

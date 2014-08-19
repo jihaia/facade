@@ -31,7 +31,7 @@
             "userConfig": {
                 "glyph": "xf002@fontawesome",
                 "layout": "fit",
-                "title": "NAS"
+                "title": "Network Attached Storage"
             },
             "name": "MyPanel4",
             "designerId": "bba14e45-2837-4d8e-a872-662c5091881c",
