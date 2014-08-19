@@ -1,0 +1,57 @@
+{
+    "name": "facade",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "5.0.1.231",
+            "frameworkVersion": "5.0.1"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "Auto Expand",
+                "builtIn": true,
+                "height": null,
+                "width": null
+            }
+        },
+        "urlPrefix": "http://localhost:1841",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "projectHasEnabledWebServer": true
+    },
+    "xdsVersion": "3.1.0",
+    "xdsBuild": 1847,
+    "schemaVersion": 1,
+    "upgradeVersion": 300000000007,
+    "framework": "ext50",
+    "viewOrderMap": {
+        "view": [
+            "ccf11f1b-c72a-44fc-9803-344ace6f3349",
+            "f4941368-9963-4383-b809-d66d6516ffe3",
+            "4611ed12-d628-4ff4-91cd-baa29154d036",
+            "1b30c03b-af7c-4fdd-8bb0-b08b35f0bbeb",
+            "82dc7d2e-416f-4f05-ada6-6a7bcceb32b8",
+            "b716f149-431e-42e6-926c-4ad56c5f5f28",
+            "b90594f6-437a-49c1-822b-5f20e77ef213",
+            "4fa328fc-a4a4-4cc0-ae90-640f6f45c3b5",
+            "60b6c046-3772-43f2-875b-74e06839372d"
+        ],
+        "store": [],
+        "controller": [],
+        "model": [],
+        "resource": [
+            "ed1b2218-96e3-4f67-afee-45be463f92e9",
+            "0149ded5-038e-424d-ac51-0e99c893a764",
+            "02fd72a6-7db0-4489-b70b-04a95d505ff7"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "Ext.app.ViewController",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userAlias": "workspaceheader",
+        "designer|userClassName": "workspace.HeaderViewController"
+    },
+    "designerId": "b716f149-431e-42e6-926c-4ad56c5f5f28"
+}

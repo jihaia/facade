@@ -1,0 +1,52 @@
+{
+    "type": "Ext.container.Viewport",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|initialView": true,
+        "designer|userAlias": "workspacepanel",
+        "designer|userClassName": "workspace.Panel",
+        "itemId": "mainView",
+        "layout": "border"
+    },
+    "designerId": "ccf11f1b-c72a-44fc-9803-344ace6f3349",
+    "viewControllerInstanceId": "4611ed12-d628-4ff4-91cd-baa29154d036",
+    "viewModelInstanceId": "f4941368-9963-4383-b809-d66d6516ffe3",
+    "cn": [
+        {
+            "type": "linkedinstance",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "layout|region": "north"
+            },
+            "name": "workspace.header",
+            "designerId": "adcf2c72-fad2-4a48-849e-b4d7e1e8061d",
+            "masterInstanceId": "1b30c03b-af7c-4fdd-8bb0-b08b35f0bbeb"
+        },
+        {
+            "type": "linkedinstance",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "collapsible": true,
+                "layout|collapseMode": null,
+                "layout|region": "west",
+                "layout|split": false,
+                "layout|splitterResize": false
+            },
+            "name": "navigation.panel",
+            "designerId": "c353a005-66a7-49fc-a5b2-9fad4793109e",
+            "masterInstanceId": "b90594f6-437a-49c1-822b-5f20e77ef213"
+        }
+    ]
+}

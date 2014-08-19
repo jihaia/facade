@@ -1,0 +1,14 @@
+{
+    "type": "cssresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "css",
+        "url": "resources/css/fonts.css"
+    },
+    "name": "css",
+    "designerId": "02fd72a6-7db0-4489-b70b-04a95d505ff7"
+}

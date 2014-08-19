@@ -1,0 +1,13 @@
+{
+    "type": "Ext.app.ViewModel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userAlias": "workspaceheader",
+        "designer|userClassName": "workspace.HeaderViewModel"
+    },
+    "designerId": "82dc7d2e-416f-4f05-ada6-6a7bcceb32b8"
+}

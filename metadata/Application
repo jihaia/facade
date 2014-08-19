@@ -1,0 +1,18 @@
+{
+    "type": "Ext.app.Application",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "name": "Qtm",
+        "views": [
+            "workspace.Panel",
+            "workspace.Header",
+            "navigation.Panel"
+        ]
+    },
+    "name": "Application",
+    "designerId": "application"
+}

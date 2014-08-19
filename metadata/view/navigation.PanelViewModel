@@ -1,0 +1,13 @@
+{
+    "type": "Ext.app.ViewModel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userAlias": "navigationpanel",
+        "designer|userClassName": "navigation.PanelViewModel"
+    },
+    "designerId": "4fa328fc-a4a4-4cc0-ae90-640f6f45c3b5"
+}

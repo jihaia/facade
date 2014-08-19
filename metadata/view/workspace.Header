@@ -1,0 +1,26 @@
+{
+    "type": "Ext.panel.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "bodyStyle": [
+            "background: #0F73C3;"
+        ],
+        "border": false,
+        "designer|userAlias": "workspaceheader",
+        "designer|userClassName": "workspace.Header",
+        "frameHeader": false,
+        "glyph": null,
+        "header": false,
+        "height": 40,
+        "itemId": "headerPanel",
+        "title": "Header"
+    },
+    "name": "MyPanel1",
+    "designerId": "1b30c03b-af7c-4fdd-8bb0-b08b35f0bbeb",
+    "viewControllerInstanceId": "b716f149-431e-42e6-926c-4ad56c5f5f28",
+    "viewModelInstanceId": "82dc7d2e-416f-4f05-ada6-6a7bcceb32b8"
+}

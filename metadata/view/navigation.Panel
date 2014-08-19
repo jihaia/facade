@@ -1,0 +1,170 @@
+{
+    "type": "Ext.panel.Panel",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "collapseDirection": "left",
+        "designer|userAlias": "navigationpanel",
+        "designer|userClassName": "navigation.Panel",
+        "frameHeader": false,
+        "header": false,
+        "itemId": "navigator",
+        "layout": "accordion",
+        "title": "Menu",
+        "width": 250
+    },
+    "name": "MyPanel2",
+    "designerId": "b90594f6-437a-49c1-822b-5f20e77ef213",
+    "viewControllerInstanceId": "60b6c046-3772-43f2-875b-74e06839372d",
+    "viewModelInstanceId": "4fa328fc-a4a4-4cc0-ae90-640f6f45c3b5",
+    "cn": [
+        {
+            "type": "Ext.panel.Panel",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "glyph": "xf002@fontawesome",
+                "layout": "fit",
+                "title": "NAS"
+            },
+            "name": "MyPanel4",
+            "designerId": "bba14e45-2837-4d8e-a872-662c5091881c",
+            "cn": [
+                {
+                    "type": "Ext.menu.Menu",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "floating": false,
+                        "itemId": "menu",
+                        "plain": true,
+                        "width": null
+                    },
+                    "name": "MyMenu1",
+                    "designerId": "e587c1dd-ec3d-4424-b5e7-7f1813466103",
+                    "cn": [
+                        {
+                            "type": "Ext.menu.Item",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "text": "Menu Item"
+                            },
+                            "name": "MyMenuItem3",
+                            "designerId": "c770dbb5-a50a-473c-8a44-23d286934911"
+                        },
+                        {
+                            "type": "Ext.menu.Item",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "text": "Menu Item"
+                            },
+                            "name": "MyMenuItem4",
+                            "designerId": "beb13bbb-44b2-4fb0-97e0-73f2e7187f02"
+                        },
+                        {
+                            "type": "Ext.menu.Item",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "text": "Menu Item"
+                            },
+                            "name": "MyMenuItem5",
+                            "designerId": "cfe59057-3ba4-4721-9511-6d7cda87e10c"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Ext.panel.Panel",
+            "reference": {
+                "name": "items",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "title": "Group 3"
+            },
+            "name": "MyPanel5",
+            "designerId": "75661fc3-906d-4861-8b6b-3f46f5df3d1b",
+            "cn": [
+                {
+                    "type": "Ext.menu.Menu",
+                    "reference": {
+                        "name": "items",
+                        "type": "array"
+                    },
+                    "codeClass": null,
+                    "userConfig": {
+                        "floating": false,
+                        "itemId": "menu3",
+                        "width": null
+                    },
+                    "name": "MyMenu2",
+                    "designerId": "0b76075d-71c5-4330-b36a-2f20b79602f9",
+                    "cn": [
+                        {
+                            "type": "Ext.menu.Item",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "text": "Menu Item"
+                            },
+                            "name": "MyMenuItem6",
+                            "designerId": "58af5433-8fcd-4e1e-8b72-393dacbac634"
+                        },
+                        {
+                            "type": "Ext.menu.Item",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "text": "Menu Item"
+                            },
+                            "name": "MyMenuItem7",
+                            "designerId": "3475efc3-9da5-4513-a311-15ae6e8cfbee"
+                        },
+                        {
+                            "type": "Ext.menu.Item",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "text": "Menu Item"
+                            },
+                            "name": "MyMenuItem8",
+                            "designerId": "6dc1aefe-13fa-4d16-85c0-2a2b3d86ebf7"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
